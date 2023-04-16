@@ -5,12 +5,12 @@
 <br><b>  𝐘𝐎𝐊𝐀 𝐌𝐔𝐒𝐈𝐂 𝐒𝐎𝐔𝐑𝐂𝐄
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/Sad_shayari_lovers"><img src="https://telegra.ph/file/46ede9ce0c467ab112c63.png"></a></p>
+<p align="center"><a href="https://t.me/INAGYI"><img src="https://te.legra.ph/file/5b3fc16dca4fab2c99c5a.jpg"></a></p>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Yoka+play+music+on+telegram+voice+chat+feature;Managed+by+Dr.+Nagy%E2%9D%A4%EF%B8%8F"> 
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Yoka+play+music+on+telegram+voice+chat+feature;Managed+by+Dr.+Nagy %E2%9D%A4%EF%B8%8F"> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
