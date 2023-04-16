@@ -1,0 +1,78 @@
+{
+    "name": "𝐘𝐎𝐊𝐀 𝐌𝐔𝐒𝐈𝐂 𝐒𝐎𝐔𝐑𝐂𝐄",
+    "description": "telegram music bot source with simple futures. ",
+    "logo": "https://te.legra.ph/file/ca3cab50bd28e998bca97.jpg",
+    "keywords": [
+    "python3",
+    "telegram",
+    "bot",
+    "Yoka",
+    "MusicBot",
+    "telegram-bot",
+    "pyrogram"
+    ],
+    "env": {
+      "API_ID": {
+        "description": "هاتو من هنا ي معلم ⇐ https://my.telegram.org",
+        "value": "",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "هاتو من هنا ي معلم ⇐ https://my.telegram.org",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN": {
+        "description": "توكن البوت حقك يا طويل العمر ↯",
+        "value": "",
+        "required": true
+      },
+      "MONGO_DB_URI": {
+        "description": "ابحث ع اليوتيوب وهات الطريقه وخش هاتو من هنا ⇐ https://cloud.mongodb.com",
+        "value": "",
+        "required": true
+      },
+      "MUSIC_BOT_NAME": {
+        "description": "اكتب اسم البوت بتاعك ↯",
+        "value": "𝐘𝐎𝐊𝐀",
+        "required": true
+      },
+      "OWNER_ID": {
+        "description": "حط الايدي بتاعك ي برنس ↯",
+        "value": "",
+        "required": true
+      },
+      "STRING_SESSION": {
+        "description": "جلسة البايروجرام من البوت اللي اديتهولك ↯",
+        "value": "",
+        "required": true
+      },
+      "HEROKU_API_KEY": {
+        "description": "هات هيروكو API KEY من هنا ⇐ https://dashboard.heroku.com/account",
+        "value": "",
+        "required": false
+      },
+      "HEROKU_APP_NAME": {
+        "description": "اسم الآب ... اللي هوا اول اسم كتبتو فوق خالص خدو كوبي وهاتو هنا ↯",
+        "value": "",
+        "required": false
+      },
+      "LOG_GROUP_ID": {
+        "description": "ايدي جروب التخزين ... لازم جروب مينفعش قناة ↯",
+        "value": "-10012345789",
+        "required": true
+      }
+    },
+    "buildpacks": [
+          {
+              "url": "heroku/python"
+          },
+          {
+              "url": "heroku/nodejs"
+          },
+          {
+              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+          }
+      ],
+      "stack": "container"
+  }
