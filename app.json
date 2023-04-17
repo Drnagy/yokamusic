@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "هاتو من هنا ي معلم ⇐ https://my.telegram.org",
-        "value": "",
+        "value": "13760933",
         "required": true
       },
       "API_HASH": {
         "description": "هاتو من هنا ي معلم ⇐ https://my.telegram.org",
-        "value": "",
+        "value": "17cdd93b30aa096cb9e022fb71bf690c",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "ابحث ع اليوتيوب وهات الطريقه وخش هاتو من هنا ⇐ https://cloud.mongodb.com",
-        "value": "",
+        "value": "mongodb+srv://nagy4462:gotoemail1998@cluster0.9fiktsg.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
@@ -39,22 +39,22 @@
       },
       "OWNER_ID": {
         "description": "حط الايدي بتاعك ي برنس ↯",
-        "value": "",
+        "value": "5886877255",
         "required": true
       },
       "STRING_SESSION": {
         "description": "جلسة البايروجرام من البوت اللي اديتهولك ↯",
-        "value": "",
+        "value": "AQCJUXO5gpQoPKAZXmbUAh8h8jnomIkVY6H0pC33jNiN-OJWogynhfQc6pT3ns0crCPR2rH749xOF9GgnBIaotJyh62KOc7bP4RRwltkDSkA9EAOiAlV1XjPrtBViL5HP2FPCOsNMPkgwgpJoGte2F5Lc9m04xexMatndBqqCKHuInzGFt5sAFtLb2KblZVKBfB1G7-Fmwe2tqs90YuYkeyARCYdmnu5XUDz9iwSm-aN-BsuCdj4Ux4_adN4O38MA8HRmwSujX-PQjFHkiDGiAfldpwkvOVEFrd85NYYT2dH2-5CGc47QZ1j9Cip6tro76Tr7xDitrUu9SaMLmt69smyAAAAAWskMqgA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "هات هيروكو API KEY من هنا ⇐ https://dashboard.heroku.com/account",
-        "value": "",
+        "value": "25fbfdd3-2bb1-47e4-8709-4d964a15e928",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "اسم الآب ... اللي هوا اول اسم كتبتو فوق خالص خدو كوبي وهاتو هنا ↯",
-        "value": "",
+        "value": "yokamusic",
         "required": false
       },
       "LOG_GROUP_ID": {
