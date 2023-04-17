@@ -33,7 +33,7 @@ SKIP_COMMAND = get_command("SKIP_COMMAND")
     & ~filters.edited
     & ~BANNED_USERS
 )
-@AdminRightsCheckCB
+@AdminRightsCheck
 async def skip(cli, message: Message, _, chat_id):
     if not len(message.command) < 2:
         loop = await get_loop(chat_id)
