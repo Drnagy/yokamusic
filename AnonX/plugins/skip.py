@@ -18,7 +18,7 @@ from AnonX import YouTube, app
 from AnonX.core.call import Anon
 from AnonX.misc import db
 from AnonX.utils.database import get_loop
-from AnonX.utils.decorators import AdminRightsCheckCB
+from AnonX.utils.decorators import AdminRightsCheck
 from AnonX.utils.inline.play import (stream_markup,
                                           telegram_markup)
 from AnonX.utils.stream.autoclear import auto_clean
