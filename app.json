@@ -14,32 +14,32 @@
     "env": {
       "API_ID": {
         "description": "هاتو من هنا ي معلم ⇐ https://my.telegram.org",
-        "value": "",
+        "value": "13760933",
         "required": true
       },
       "API_HASH": {
         "description": "هاتو من هنا ي معلم ⇐ https://my.telegram.org",
-        "value": "",
+        "value": "17cdd93b30aa096cb9e022fb71bf690c",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "توكن البوت حقك يا طويل العمر ↯",
-        "value": "",
+        "value": "6219145501:AAGSYNkPcrkUHVL4cDIGAeD3buQRLoSHjCY",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "ابحث ع اليوتيوب وهات الطريقه وخش هاتو من هنا ⇐ https://cloud.mongodb.com",
-        "value": "",
+        "value": "mongodb+srv://nagy4462:gotoemail1998@cluster0.9fiktsg.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "اكتب اسم البوت بتاعك ↯",
-        "value": "𝐘𝐎𝐊𝐀",
+        "value": "يـوڪـا",
         "required": true
       },
       "OWNER_ID": {
         "description": "حط الايدي بتاعك ي برنس ↯",
-        "value": "",
+        "value": "5886877255",
         "required": true
       },
       "STRING_SESSION": {
@@ -49,17 +49,17 @@
       },
       "HEROKU_API_KEY": {
         "description": "هات هيروكو API KEY من هنا ⇐ https://dashboard.heroku.com/account",
-        "value": "",
+        "value": "25fbfdd3-2bb1-47e4-8709-4d964a15e928",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "اسم الآب ... اللي هوا اول اسم كتبتو فوق خالص خدو كوبي وهاتو هنا ↯",
-        "value": "",
+        "value": "yokamusic",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "ايدي جروب التخزين ... لازم جروب مينفعش قناة ↯",
-        "value": "-10012345789",
+        "value": "-1001788420032",
         "required": true
       }
     },
